@@ -1,0 +1,10 @@
+{
+  "name": "@zacdbostick/ezvalidator",
+  "version": "1.0.0",
+  "description": "EZValidator is a lightweight JavaScript library that provides easy-to-use functions for validating common data formats. It offers validation for email addresses, phone numbers, URLs, and password strength, empowering developers to ensure data integrity and enhance user input validation. Simplify your validation process with EZValidator.",
+  "main": "validator.js",
+  "keywords": ["validation", "form validation", "input validation"],
+  "author": "Zac Bostick",
+  "license": "MIT",
+  "devDependencies": {}
+}
